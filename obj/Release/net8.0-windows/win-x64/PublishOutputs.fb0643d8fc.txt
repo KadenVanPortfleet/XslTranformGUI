@@ -1,0 +1,7 @@
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\StandAloneReleases\KXSL Transform GUI.pdb
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\StandAloneReleases\D3DCompiler_47_cor3.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\StandAloneReleases\PenImc_cor3.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\StandAloneReleases\PresentationNative_cor3.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\StandAloneReleases\vcruntime140_cor3.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\StandAloneReleases\wpfgfx_cor3.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\StandAloneReleases\KXSL Transform GUI.exe

@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "/inP3uyFoJ60hetjGMopWkEZIRydt+2mudDvoK+ukq2ze3s3OOdtmVPTkpN/fFn2uHQtN0qPwLUZSyri2eP71w==",
+  "success": true,
+  "projectFilePath": "C:\\Ccrt\\KadenTraining\\XslTransformGUI\\XslTransformGUI\\KXSL Transform GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kvanport\\.nuget\\packages\\fonet\\1.0.0\\fonet.1.0.0.nupkg.sha512",
+    "C:\\Users\\Kvanport\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kvanport\\.nuget\\packages\\spire.pdf\\10.3.7\\spire.pdf.10.3.7.nupkg.sha512",
+    "C:\\Users\\Kvanport\\.nuget\\packages\\spire.pdfviewer\\7.12.11\\spire.pdfviewer.7.12.11.nupkg.sha512",
+    "C:\\Users\\Kvanport\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kvanport\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kvanport\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Fonet 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Fonet",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Spire.PDFViewer 7.12.11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Spire.PDFViewer",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

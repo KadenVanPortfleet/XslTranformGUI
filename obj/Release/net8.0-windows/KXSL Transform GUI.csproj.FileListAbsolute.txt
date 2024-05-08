@@ -1,0 +1,28 @@
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\KXSL Transform GUI.exe
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\KXSL Transform GUI.deps.json
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\KXSL Transform GUI.runtimeconfig.json
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\KXSL Transform GUI.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\KXSL Transform GUI.pdb
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\Fonet.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\Spire.Pdf.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\Spire.PdfViewer.Asp.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\Spire.PdfViewer.Forms.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\Interop.AcroPDFLib.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\bin\Release\net8.0-windows\AxInterop.AcroPDFLib.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.csproj.AssemblyReference.cache
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\Interop.AcroPDFLib.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\AxInterop.AcroPDFLib.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.csproj.ResolveComReference.cache
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\XslTransformGUI.Form1.resources
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\XslTransformGUI.InfoForm.resources
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.csproj.GenerateResource.cache
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.AssemblyInfoInputs.cache
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.AssemblyInfo.cs
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.csproj.CoreCompileInputs.cache
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Tra.1AA92CB3.Up2Date
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\refint\KXSL Transform GUI.dll
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.pdb
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\KXSL Transform GUI.genruntimeconfig.cache
+C:\Ccrt\KadenTraining\XslTransformGUI\XslTransformGUI\obj\Release\net8.0-windows\ref\KXSL Transform GUI.dll
