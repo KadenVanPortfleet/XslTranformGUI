@@ -1,8 +1,0 @@
-------New Log File Created at 4/15/2024 10:09:05 AM------
- 04/15/2024 10:09:05.562 --- [INFO] XSLTransform.cs [RunXslTransform] [26] | Starting VSCode!
- 04/15/2024 10:09:11.459 --- [INFO] XSLTransform.cs [RunPdfTransform] [59] | Check point!
- 04/15/2024 10:09:11.459 --- [INFO] XSLTransform.cs [RunPdfTransform] [62] | Running Transform!
- 04/15/2024 10:09:15.104 --- [INFO] XSLTransform.cs [RunPdfTransform] [59] | Check point!
- 04/15/2024 10:09:15.105 --- [INFO] XSLTransform.cs [RunPdfTransform] [62] | Running Transform!
- 04/15/2024 10:09:19.218 --- [INFO] XSLTransform.cs [RunPdfTransform] [59] | Check point!
- 04/15/2024 10:09:19.218 --- [INFO] XSLTransform.cs [RunPdfTransform] [62] | Running Transform!
